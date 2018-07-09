@@ -1,8 +1,8 @@
 {
-  "name": "my-new-project",
-  "productName": "my-new-project",
+  "name": "electron-playground",
+  "productName": "lectron-playground",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "A playground for learning electorn + react + TS",
   "main": "src/index.ts",
   "scripts": {
     "start": "electron-forge start",
